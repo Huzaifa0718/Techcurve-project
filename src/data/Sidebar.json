@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "fa-solid fa-envelope  email",
+    "title": "Email Module"
+  },
+  {
+    "icon": "fa-solid fa-people-roof audience",
+    "title": "Audience",
+    "childrens": [
+      {
+        "icon": "fa-solid fa-envelope  email",
+        "title": "All Contact "
+      },
+      {
+        "icon": "fa-solid fa-envelope  email",
+        "title": "Email Subscriber List"
+      }
+    ]
+  },
+  {
+    "icon": "fa-sharp fa-solid fa-volume-high campaign",
+    "title": "Campaign",
+    "childrens": [
+      {
+        "icon": "fa-solid fa-envelope  email",
+        "title": "All Campaign List"
+      }
+    ]
+  }
+]
